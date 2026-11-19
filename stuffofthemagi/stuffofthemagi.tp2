@@ -38,6 +38,11 @@ LANGUAGE ~Italiano (traduzione di ilot)~
          ~stuffofthemagi/lang/italian/setup.tra~
          ~stuffofthemagi/lang/italian/strings.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~stuffofthemagi/lang/schinese/setup.tra~
+         ~stuffofthemagi/lang/schinese/strings.tra~
+
 
 /* ============================================================================== *
  *          COMPOSANT PRINCIPAL  -  MAIN COMPONENT  :  Stuff of the Magi          *

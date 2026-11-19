@@ -62,7 +62,7 @@ SILENT
 	 *    Convert strings to UTF-8 for BGEE/BG2EE           *
 	 *    No exception, everything needs to be converted    *
 	 * ---------------------------------------------------- */
-	ACTION_DEFINE_ARRAY sotm_noconvert BEGIN END
+	ACTION_DEFINE_ARRAY sotm_noconvert BEGIN setup END
 	// any tra files used in LANGUAGE need to be reloaded after UTF-8 conversion
 	ACTION_DEFINE_ARRAY sotm_reload BEGIN setup strings END
 	LAF HANDLE_CHARSETS
